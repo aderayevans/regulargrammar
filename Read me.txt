@@ -1,0 +1,14 @@
+Hi!
+Welcome to our program
+
+This is a command line interface program. First you need to extract it, then run RegularGrammar.py and type keyword
+Please extract all files before run it to not get error.
+
+What can we do:
+    Convert Right|Left_linear Regular Grammar to NFAepsilon
+    Convert NFA|DFA|NFAepsilon to Right|Left_linear Regular Grammar
+    Identify whether a string is accepted by NFA|DFA|NFAepsilon or not
+    Identify whether a string is baccepted by Right|Left_linear Regular Grammar or not	
+	
+	Thanks for using our program, hope this helps you!
+Contact us: Email: aderayevans@gmail.com
